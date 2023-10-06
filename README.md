@@ -1,4 +1,4 @@
-# JavaScript Alura
+# JavaScript - Alura
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/murilloressineti/javascript-alura/blob/main/LICENSE) 
 
 # Sobre
